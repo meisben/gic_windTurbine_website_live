@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Instructions on Girls into Coding | Wind Turbine Activity</title>
-    <link>https://main--cheerful-mousse-b9d87b.netlify.app/categories/</link>
+    <link>https://meisben.github.io/gic_windTurbine_website_live/categories/</link>
     <description>Recent content in Instructions on Girls into Coding | Wind Turbine Activity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Jan 2024 08:05:00 +0000</lastBuildDate>
-    <atom:link href="https://main--cheerful-mousse-b9d87b.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://meisben.github.io/gic_windTurbine_website_live/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Afternoon workshop</title>
-      <link>https://main--cheerful-mousse-b9d87b.netlify.app/categories/afternoon-workshop/</link>
+      <link>https://meisben.github.io/gic_windTurbine_website_live/categories/afternoon-workshop/</link>
       <pubDate>Mon, 22 Jan 2024 08:05:00 +0000</pubDate>
-      <guid>https://main--cheerful-mousse-b9d87b.netlify.app/categories/afternoon-workshop/</guid>
+      <guid>https://meisben.github.io/gic_windTurbine_website_live/categories/afternoon-workshop/</guid>
       <description></description>
     </item>
     <item>
       <title>Full day workshop</title>
-      <link>https://main--cheerful-mousse-b9d87b.netlify.app/categories/full-day-workshop/</link>
+      <link>https://meisben.github.io/gic_windTurbine_website_live/categories/full-day-workshop/</link>
       <pubDate>Mon, 22 Jan 2024 08:05:00 +0000</pubDate>
-      <guid>https://main--cheerful-mousse-b9d87b.netlify.app/categories/full-day-workshop/</guid>
+      <guid>https://meisben.github.io/gic_windTurbine_website_live/categories/full-day-workshop/</guid>
       <description></description>
     </item>
   </channel>
