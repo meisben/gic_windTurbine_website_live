@@ -1,7 +1,7 @@
 # gic_windTurbine_website_live
  Live version of gic_windTurbine_website
 
-[![logoPicture](images/girlsIntoCodingLogo.jpg)](https://www.girlsintocoding.com/)
+[![logoPicture](/docs/images/girlsIntoCodingLogo.jpg)](https://www.girlsintocoding.com/)
 
 A project activity for [Girls Into Coding](https://www.girlsintocoding.com/) using a microbit and the Mind wind turbine kit
 
