@@ -1,10 +1,5 @@
 # gic_windTurbine_website_live
 
-N.B. for paper mode formatting to work correctly. The following line needed to be added to the .gitattributes file
-*.css text eol=crlf
-
- Live version of gic_windTurbine_website
-
 [![logoPicture](/docs/images/girlsIntoCodingLogo.jpg)](https://www.girlsintocoding.com/)
 
 A project activity for [Girls Into Coding](https://www.girlsintocoding.com/) using a microbit and the Mind wind turbine kit
@@ -33,3 +28,6 @@ Feel free very welcome to contribute if you find any errors in this activity, by
 ## Help and updates
 
 If you have any difficulty with the activity please all initiate an issue and i'll be happy to help :)
+
+N.B. for paper mode formatting to work correctly. The following line needed to be added to the .gitattributes file
+*.css text eol=crlf
